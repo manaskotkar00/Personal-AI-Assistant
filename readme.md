@@ -1,4 +1,4 @@
-# ⚙️ MARK LVI (56)
+# ⚙️ Personal AI Assistant (56)
 ### The Ultimate Cross-Platform Personal AI Assistant — By FatihMakes
 
 > 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/@FatihMakes)**
